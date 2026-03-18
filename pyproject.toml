@@ -1,0 +1,8 @@
+[project]
+name = "ai-recommendation-system"
+version = "0.1.0"
+description = "Interview-ready embedding-based recommendation system in Python"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
